@@ -4,7 +4,7 @@
 <!-- LINKS -->
 <!-- Replace the link for each in brackets below -->
 <!-- PR (working into submission) -->
-[1]: http://xyz.com
+[1]: https://github.com/401-advanced-javascript-billybunn/lab-29/pull/1
 
 ## Routing and Component Composition
 
@@ -13,17 +13,17 @@
 ### Links and Resources
 * [PR][1]
 
-### Assignment 1 - Warmups
-* [CodeSandbox]()
+#### Assignment 1 - Warmups
+   * [CodeSandbox](https://codesandbox.io/s/1ym7nl041l)
 
-### Assignment 2 - Modularize and Functionalize
-* [CodeSandbox]()
+#### Assignment 2 - Modularize and Functionalize
+   * [CodeSandbox](https://codesandbox.io/s/p50k0n6jo7)
 
-### Assignment 3 - Conditionals
-* [CodeSandbox]()
+#### Assignment 3 - Conditionals
+   * [CodeSandbox](https://codesandbox.io/s/7myvzzwqn1)
 
-### Assignment 4 - Modal
-* [CodeSandbox]()
+#### Assignment 4 - Modal
+   * [CodeSandbox]()
 
 
 ### Modules
